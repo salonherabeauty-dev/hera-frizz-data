@@ -1,0 +1,2 @@
+recorded_at,reading_time_sgt,avg_rh,avg_temp_c,frizz_index,tier,stations_rh_json,source
+2026-09-05T17:14:14+08:00,2026-09-05T17:10:00+08:00,70.1,30.4,46,Manageable,"{""S107"": 70.1}",NEA
